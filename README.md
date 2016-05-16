@@ -1,2 +1,4 @@
 # algorithm
-some algorithm snip
+some algorithm snippets
+
+* z walk matrix
